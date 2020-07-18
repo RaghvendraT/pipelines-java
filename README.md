@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/l-p-a-poc/l-p-a%20test/_apis/build/status/RaghvendraT.pipelines-java?branchName=master)](https://dev.azure.com/l-p-a-poc/l-p-a%20test/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
